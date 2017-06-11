@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 04bad1fa17601a74db3295285fcba674
+timeCreated: 1466467603
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - bullet: {instanceID: 0}
+  - shotPlace: {instanceID: 0}
+  - Controller: {fileID: 135586, guid: 39bc84e38421c124ab689964de9126de, type: 2}
+  - gravityScript: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
